@@ -2,5 +2,5 @@
 layout: slide
 title: "2枚目のスライドにようこそ！"
 ---
-playground
+change
 戻るには戻るボタンを使いましょう！
